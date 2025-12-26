@@ -1,6 +1,6 @@
 import React from 'react';
 import Section from '../components/Section';
-import { siteData } from '../../data';
+import { siteData } from '../data';
 
 function Contacts() {
   return (

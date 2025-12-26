@@ -1,7 +1,7 @@
 import React from 'react';
 import Section from '../components/Section';
 import PaymentIcon from '../components/PaymentIcon';
-import { siteData } from '../../data';
+import { siteData } from '../data';
 
 function Payments() {
   return (

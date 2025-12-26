@@ -1,7 +1,7 @@
 import Hero from '../components/Hero';
 import Section from '../components/Section';
 import Card from '../components/Card';
-import { siteData } from '../../data';
+import { siteData } from '../data';
 
 function Home() {
   return (
