@@ -3,7 +3,7 @@ import React from 'react';
 function Card({ title, description, icon }) {
   return (
     <div className="card">
-      {icon && <img src={icon} alt={title} />}
+      {icon && <img src={icon} alt={title} className="card-icon" />}
       <h3>{title}</h3>
       <p>{description}</p>
     </div>
