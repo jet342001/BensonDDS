@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Hero({ title, subtitle }) {
   return (
     <section className="hero">
