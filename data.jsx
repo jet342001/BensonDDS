@@ -20,7 +20,7 @@ export const siteData = {
     hours: "Mon-Thur 8:00AM - 5:00PM | Fri 8:00AM - 2:00PM",
     mapUrl: "https://www.sterlingsky.ca/wp-content/uploads/2020/10/maps-step1.png",
   },
-  heroImage: "https://media.istockphoto.com/id/1488785701/photo/happy-male-patient-enjoying-after-teeth-whitening-at-the-dentists.jpg?s=612x612",
-  doctorPhoto: "https://thumbs.dreamstime.com/b/happy-male-dentist-clinic-portrait-wearing-lab-coat-sitting-36113336.jpg",
+  heroImage: "https://bradyebensondds.com/wp-content/uploads/2020/03/83242301_2776832885703616_88129159796097024_o.jpg",
+  doctorPhoto: "https://bradyebensondds.com/wp-content/uploads/2020/03/Dr-Benson.png",
   officePhoto: "https://media.istockphoto.com/id/1339523581/photo/dental-office-with-dentist-chair-dental-tools-and-waiting-area.jpg?s=612x612",
 };
